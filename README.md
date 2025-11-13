@@ -1,16 +1,17 @@
-# quiz_mobile
+Soal 5 Evaluasi UX Desain
+Instruksi:
+Pilih salah satu desain dari soal sebelumnya.
+Tuliskan:
 
-A new Flutter project.
+1. Apa nilai User Experience (UX) terbaik dari desainmu?
 
-## Getting Started
+Desain Farhan Store menawarkan pengalaman pengguna (UX) yang sederhana, responsif, dan nyaman. Tata letak produk tersusun rapi dengan hierarki visual jelas, warna biru memberi kesan profesional, dan animasi halus membuat interaksi terasa modern. Efek hover di web serta tap di mobile membuat pengalaman tetap intuitif, sementara tampilan bersih dan konsisten meningkatkan kenyamanan dan kemudahan navigasi.
 
-This project is a starting point for a Flutter application.
+2. Bagian mana yang masih bisa ditingkatkan (misalnya spacing, warna,
+   readability)?
 
-A few resources to get you started if this is your first Flutter project:
+Bagian yang bisa ditingkatkan adalah keseimbangan ukuran gambar dan teks, agar informasi produk terlihat lebih proporsional. Bayangan dan efek hover juga dapat dibuat lebih halus untuk tampilan yang lebih modern. Selain itu, penempatan harga bisa dibuat lebih menonjol supaya pengguna langsung fokus pada informasi penting.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Sebutkan prinsip Material Design yang kamu terapkan.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Prinsip Material Design yang diterapkan meliputi elevation dan shadow untuk memberikan kesan kedalaman, color hierarchy untuk membedakan elemen penting seperti label dan harga, serta responsive layout menggunakan GridView agar tampilan tetap rapi di berbagai ukuran layar. Selain itu, diterapkan juga interaction feedback melalui efek hover dan tap yang memberi respons visual pada pengguna.
